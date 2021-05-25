@@ -1,5 +1,5 @@
 PODS:
-  - AudioSettingKit (0.1.0):
+  - AudioSettingKit (0.1.3):
     - Masonry
     - TXLiteAVSDK_Professional
   - Masonry (1.1.0)
@@ -18,7 +18,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AudioSettingKit: 683e43e252b9d6950de8386361ee294ee85fc3bc
+  AudioSettingKit: 3124edc3a4a89280921414a5980a0869db4ba123
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   TXLiteAVSDK_Professional: e8284aa1f25d61b18a8a7fe7e24ce0cf9d01fd33
 
