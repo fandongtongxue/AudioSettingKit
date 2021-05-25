@@ -1,0 +1,27 @@
+PODS:
+  - AudioSettingKit (0.1.0):
+    - Masonry
+    - TXLiteAVSDK_Professional
+  - Masonry (1.1.0)
+  - TXLiteAVSDK_Professional (8.6.10094)
+
+DEPENDENCIES:
+  - AudioSettingKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - TXLiteAVSDK_Professional
+
+EXTERNAL SOURCES:
+  AudioSettingKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AudioSettingKit: 683e43e252b9d6950de8386361ee294ee85fc3bc
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  TXLiteAVSDK_Professional: e8284aa1f25d61b18a8a7fe7e24ce0cf9d01fd33
+
+PODFILE CHECKSUM: 073a191d9126efb0557bae51488f856476ccd97b
+
+COCOAPODS: 1.10.1
